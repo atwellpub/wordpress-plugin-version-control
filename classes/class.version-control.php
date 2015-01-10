@@ -81,9 +81,6 @@ if ( !class_exists('Version_Control')	) {
 				return $transient;
 			}
 			
-			echo self::$plugin_shrtname;
-			echo '<br>';
-			
 			/* load json from plugin */
 			self::get_json_data(); 
 		}
