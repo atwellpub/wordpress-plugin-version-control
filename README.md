@@ -1,2 +1,2 @@
 # wordpress-plugin-version-control
-Provides easy way to switch from available plugin versions for plugins that support version tags.
+Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging. Will update later.
