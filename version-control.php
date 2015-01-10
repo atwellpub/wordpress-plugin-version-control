@@ -2,7 +2,7 @@
 /*
 Plugin Name: Version Control
 Plugin URI: http://www.hudsonatwell.co
-Description: Provides easy plugin version control
+Description: Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging.
 Version: 1.0.1
 Author: adbox,Hudson Atwell
 Author URI: http://www.hudsonatwell.co
