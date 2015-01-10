@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Version Control
+Plugin Name: Plugin Version Switching
 Plugin URI: http://www.hudsonatwell.co
 Description: Provides easy way to 'roll back' and 'roll forward' plugin versions that support version tagging.
 Version: 1.0.1
